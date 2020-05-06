@@ -1,0 +1,682 @@
+[
+  {
+    "name":"Balisse Fruit",
+    "substance":"vitriol",
+    "rarity":"C",
+    "location": [ "Fields" ],
+    "quantity": "1d10 Units",
+    "forage": "12",
+    "weight": ".1",
+    "cost":"8"
+  },
+  {
+    "name":"Barley",
+    "substance":"vitriol",
+    "rarity":"C",
+    "location": ["Fields" ],
+    "quantity":"1d10 Units",
+    "forage":"12",
+    "weight":".1",
+    "cost":"9"
+  },
+  {
+    "name":"Calcium Equum",
+    "substance":"vitriol",
+    "rarity":"C",
+    "location": ["Mountains","Underground" ],
+    "quantity":"1d10 Units",
+    "forage":"12",
+    "weight":".1",
+    "cost":"12"
+  },
+  {
+    "name":"Crow’s Eye",
+    "substance":"vitriol",
+    "rarity":"P",
+    "location": ["Fields","Forests" ],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"17"
+  },
+  {
+    "name":"Ghoul Claw",
+    "substance":"vitriol",
+    "rarity":"R",
+    "location": ["Ghouls" ],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":"1",
+    "cost":"60"
+  },
+  {
+    "name":"Nekker Teeth",
+    "substance":"vitriol",
+    "rarity":"P",
+    "location": ["Nekkers" ],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"30"
+  },
+  {
+    "name":"Sewant Mushrooms",
+    "substance":"vitriol",
+    "rarity":"P",
+    "location": ["Caves" ],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"17"
+  },
+  {
+    "name":"Troll Hide",
+    "substance":"vitriol",
+    "rarity":"R",
+    "location": ["Rock Trolls" ],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":"4.5",
+    "cost":"147"
+  },
+  {
+    "name":"White Myrtle Petals",
+    "substance":"vitriol",
+    "rarity":"C",
+    "location": ["Fields" ],
+    "quantity":"1d10 Units",
+    "forage":"12",
+    "weight":".1",
+    "cost":"8"
+  },
+  {
+    "name":"Allspice Root",
+    "substance":"aether",
+    "rarity":"P",
+    "location": ["Fields"],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"18"
+  },
+  {
+    "name":"Berbercane Fruit",
+    "substance":"aether",
+    "rarity":"C",
+    "location": ["Mountains","Swamps"],
+    "quantity":"1d10 Units",
+    "forage":"12",
+    "weight":".1",
+    "cost":"9"
+  },
+  {
+    "name":"Essence of Wraith",
+    "substance":"aether",
+    "rarity":"R",
+    "location": ["Wraiths"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"95"
+  },
+  {
+    "name":"Ginatia Petals",
+    "substance":"aether",
+    "rarity":"P",
+    "location": ["Fields"],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"17"
+  },
+  {
+    "name":"Hellebore Petals",
+    "substance":"aether",
+    "rarity":"P",
+    "location": ["Forests"],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"19"
+  },
+  {
+    "name":"Pearl",
+    "substance":"aether",
+    "rarity":"R",
+    "location": ["Ocean floor","Shore"],
+    "quantity":"d6/3 Units",
+    "forage":"20",
+    "weight":".1",
+    "cost":"100"
+  },
+  {
+    "name":"Quicksilver Solution",
+    "substance":"aether",
+    "rarity":"R",
+    "location": ["Mountains", "Underground"],
+    "quantity":"1d6/2 Units",
+    "forage":"18",
+    "weight":".1",
+    "cost":"77"
+  },
+  {
+    "name":"Scleroderm",
+    "substance":"aether",
+    "rarity":"E",
+    "location": ["Forests", "Caves"],
+    "quantity":"2d6 Units",
+    "forage":"10",
+    "weight":".1",
+    "cost":"5"
+  },
+  {
+    "name":"Celandine",
+    "substance":"rebis",
+    "rarity":"C",
+    "location": ["Fields","Forests"],
+    "quantity":"1d10 Units",
+    "forage":"12",
+    "weight":".1",
+    "cost":"8"
+  },
+  {
+    "name":"Drowner Brain",
+    "substance":"rebis",
+    "rarity":"P",
+    "location": ["Drowners"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":"1",
+    "cost":"80"
+  },
+  {
+    "name":"Han Fiber",
+    "substance":"rebis",
+    "rarity":"P",
+    "location": ["Fields"],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"17"
+  },
+  {
+    "name":"Hag Teeth",
+    "substance":"rebis",
+    "rarity":"R",
+    "location": ["Grave Hags"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"90"
+  },
+  {
+    "name":"Lunar Shards",
+    "substance":"rebis",
+    "rarity":"R",
+    "location": ["Mountains","Underground"],
+    "quantity":"1d6/2 Units",
+    "forage":"18",
+    "weight":".1",
+    "cost":"91"
+  },
+  {
+    "name":"Nekker Heart",
+    "substance":"rebis",
+    "rarity":"P",
+    "location": ["Nekkers"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".5",
+    "cost":"30"
+  },
+  {
+    "name":"Wine Stone",
+    "substance":"rebis",
+    "rarity":"R",
+    "location": ["Breweries"],
+    "quantity":"1d6/2 Units",
+    "forage":"18",
+    "weight":".5",
+    "cost":"88"
+  },
+  {
+    "name":"Balisse Leaves",
+    "substance":"quebrith",
+    "rarity":"C",
+    "location": ["Fields"],
+    "quantity":"1d10 Units",
+    "forage":"12",
+    "weight":".1",
+    "cost":"8"
+  },
+  {
+    "name":"Ducal Water",
+    "substance":"quebrith",
+    "rarity":"C",
+    "location": ["Mountains", "Underground"],
+    "quantity":"1d10 Units",
+    "forage":"12",
+    "weight":".1",
+    "cost":"20"
+  },
+  {
+    "name":"Fool’s Parsley",
+    "substance":"quebrith",
+    "rarity":"E",
+    "location": ["Fields"],
+    "quantity":"2d6 Units",
+    "forage":"10",
+    "weight":".1",
+    "cost":"2"
+  },
+  {
+    "name":"Ghoul Marrow",
+    "substance":"quebrith",
+    "rarity":"R",
+    "location": ["Ghouls"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".5",
+    "cost":"80"
+  },
+  {
+    "name":"Honeysuckle",
+    "substance":"quebrith",
+    "rarity":"C",
+    "location": ["Fields"],
+    "quantity":"1d10 Units",
+    "forage":"12",
+    "weight":".1",
+    "cost":"21"
+  },
+  {
+    "name":"Optima Mater",
+    "substance":"quebrith",
+    "rarity":"R",
+    "location": ["Mountains","Underground"],
+    "quantity":"1d6/2 Units",
+    "forage":"18",
+    "weight":".1",
+    "cost":"100"
+  },
+  {
+    "name":"Sulfur",
+    "substance":"quebrith",
+    "rarity":"C",
+    "location": ["Mountains","Underground"],
+    "quantity":"1d10 Units",
+    "forage":"12",
+    "weight":".1",
+    "cost":"14"
+  },
+  {
+    "name":"Cortinarius",
+    "substance":"hydragenum",
+    "rarity":"P",
+    "location": ["Forests"],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"18"
+  },
+  {
+    "name":"Essence of Water",
+    "substance":"hydragenum",
+    "rarity":"R",
+    "location": ["Drowners","Sirens"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"46"
+  },
+  {
+    "name":"Infused Dust",
+    "substance":"hydragenum",
+    "rarity":"R",
+    "location": ["Wraiths", "Noon Wraiths", "Griffins", "Golems"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"146"
+  },
+  {
+    "name":"Mistletoe",
+    "substance":"hydragenum",
+    "rarity":"P",
+    "location": ["Fields", "Forests"],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"8"
+  },
+  {
+    "name":"Nekker Claw",
+    "substance":"hydragenum",
+    "rarity":"P",
+    "location": ["Nekkers"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".5",
+    "cost":"40"
+  },
+  {
+    "name":"Troll Liver",
+    "substance":"hydragenum",
+    "rarity":"R",
+    "location": ["Rock Trolls"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":"1",
+    "cost":"87"
+  },
+  {
+    "name":"Werewolf Saliva",
+    "substance":"hydragenum",
+    "rarity":"R",
+    "location": ["Werewolves"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"60"
+  },
+  {
+    "name":"Chitin",
+    "substance":"vermilion",
+    "rarity":"R",
+    "location": ["Arachasae","Endrega"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":"5",
+    "cost":"106"
+  },
+  {
+    "name":"Endrega Saliva",
+    "substance":"vermilion",
+    "rarity":"P",
+    "location": ["Endrega"],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"38"
+  },
+  {
+    "name":"Griffin Egg",
+    "substance":"vermilion",
+    "rarity":"R",
+    "location": ["Griffins","Griffin Nests"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":"1",
+    "cost":"150"
+  },
+  {
+    "name":"Griffin Feathers",
+    "substance":"vermilion",
+    "rarity":"R",
+    "location": ["Griffins"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"148"
+  },
+  {
+    "name":"Mandrake Root",
+    "substance":"vermilion",
+    "rarity":"R",
+    "location": ["Fields", "Forests"],
+    "quantity":"1d6/2 Units",
+    "forage":"18",
+    "weight":".1",
+    "cost":"65"
+  },
+  {
+    "name":"Phosphorus",
+    "substance":"vermilion",
+    "rarity":"P",
+    "location": ["Mountains", "Underground"],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".5",
+    "cost":"20"
+  },
+  {
+    "name":"Wolfsbane",
+    "substance":"vermilion",
+    "rarity":"P",
+    "location": ["Fields", "Forests", "Mountains"],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"9"
+  },
+  {
+    "name":"Fiend’s Eye",
+    "substance":"sol",
+    "rarity":"R",
+    "location": ["Fiends"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".5",
+    "cost":"149"
+  },
+  {
+    "name":"Light Essence",
+    "substance":"sol",
+    "rarity":"P",
+    "location": ["Noon Wraiths"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"43"
+  },
+  {
+    "name":"Siren Vocal Chords",
+    "substance":"sol",
+    "rarity":"R",
+    "location": ["Sirens"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"65"
+  },
+  {
+    "name":"Vampire Saliva",
+    "substance":"sol",
+    "rarity":"R",
+    "location": ["Katakans"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".5",
+    "cost":"155"
+  },
+  {
+    "name":"Verbena",
+    "substance":"sol",
+    "rarity":"P",
+    "location": ["Fields"],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"18"
+  },
+  {
+    "name":"Wolf’s Aloe Leaves",
+    "substance":"sol",
+    "rarity":"P",
+    "location": ["The Blue Mountains"],
+    "quantity":"1d6 Units",
+    "forage":"15",
+    "weight":".1",
+    "cost":"39"
+  },
+  {
+    "name":"Wyvern Eyes",
+    "substance":"sol",
+    "rarity":"R",
+    "location": ["Wyverns"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"75"
+  },
+  {
+    "name":"Arachas Venom",
+    "substance":"caelum",
+    "rarity":"R",
+    "location": ["Arachasae"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".5",
+    "cost":"76"
+  },
+  {
+    "name":"Bryonia",
+    "substance":"caelum",
+    "rarity":"C",
+    "location": ["Mountains", "Cities"],
+    "quantity":"1d10 Units",
+    "forage":"12",
+    "weight":".1",
+    "cost":"8"
+  },
+  {
+    "name":"Drowner Tongue",
+    "substance":"caelum",
+    "rarity":"R",
+    "location": ["Drowners"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".5",
+    "cost":"86"
+  },
+  {
+    "name":"Fiend Dung",
+    "substance":"caelum",
+    "rarity":"R",
+    "location": ["Fiend Territory", "Fiends"],
+    "quantity":"1d6/2 Units",
+    "forage":"20",
+    "weight":"1",
+    "cost":"106"
+  },
+  {
+    "name":"Grave Hag Tongue",
+    "substance":"caelum",
+    "rarity":"R",
+    "location": ["Grave Hags"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".5",
+    "cost":"80"
+  },
+  {
+    "name":"Green Mold",
+    "substance":"caelum",
+    "rarity":"C",
+    "location": ["Caves"],
+    "quantity":"1d10 Units",
+    "forage":"12",
+    "weight":".1",
+    "cost":"8"
+  },
+  {
+    "name":"Vampire Teeth",
+    "substance":"caelum",
+    "rarity":"R",
+    "location": ["Katakans"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"150"
+  },
+  {
+    "name":"Venom Extract",
+    "substance":"caelum",
+    "rarity":"P",
+    "location": ["Ghouls", "Grave Hags", "Endrega", "Arachasae", "Wyverns"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"38"
+  },
+  {
+    "name":"Arachas Eyes",
+    "substance":"fulgur",
+    "rarity":"R",
+    "location": ["Arachasae"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".5",
+    "cost":"95"
+  },
+  {
+    "name":"Dog Tallow",
+    "substance":"fulgur",
+    "rarity":"C",
+    "location": ["Dogs", "Wolves"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"10"
+  },
+  {
+    "name":"Dwarven Immortelle",
+    "substance":"fulgur",
+    "rarity":"R",
+    "location": ["Underground"],
+    "quantity":"1d6/2 Units",
+    "forage":"18",
+    "weight":".1",
+    "cost":"75"
+  },
+  {
+    "name":"Endrega Embryo",
+    "substance":"fulgur",
+    "rarity":"R",
+    "location": ["Endrega Nests"],
+    "quantity":"1d6",
+    "forage":"N/A",
+    "weight":"1.5",
+    "cost":"55"
+  },
+  {
+    "name":"Golem Heart",
+    "substance":"fulgur",
+    "rarity":"R",
+    "location": ["Golems"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":"1",
+    "cost":"167"
+  },
+  {
+    "name":"Grave Hag Ear",
+    "substance":"fulgur",
+    "rarity":"R",
+    "location": ["Grave Hags"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":".1",
+    "cost":"134"
+  },
+  {
+    "name":"Specter Dust",
+    "substance":"fulgur",
+    "rarity":"P",
+    "location": ["Wraiths"],
+    "quantity":"1d6 Units",
+    "forage":"N/A",
+    "weight":"N/A",
+    "cost":"30"
+  },
+  {
+    "name":"Wyvern Egg",
+    "substance":"fulgur",
+    "rarity":"R",
+    "location": ["Wyverns"],
+    "quantity":"N/A",
+    "forage":"N/A",
+    "weight":"2",
+    "cost":"150"
+  }
+]
