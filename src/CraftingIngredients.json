@@ -2,7 +2,7 @@
    {
       "name": "Ashes",
       "rarity": "E",
-      "location" : [ "Fires" , "burned items" ],
+      "location" : [ "Fires" , "Burned items" ],
       "quantity": "1d10 Units",
       "forage": "10",
       "weight": ".1",
@@ -11,7 +11,7 @@
    {
       "name": "Coal",
       "rarity": "C",
-      "location" : [ "Fires" , "mountains" , "underground" ],
+      "location" : [ "Fires" , "Mountains" , "Underground" ],
       "quantity": "1d10 Units",
       "forage": "14",
       "weight": ".1",
@@ -20,7 +20,7 @@
    {
       "name": "Cotton",
       "rarity": "C",
-      "location" : [ "Fields" , "plantations" ],
+      "location" : [ "Fields" , "Plantations" ],
       "quantity": "1d10 Units",
       "forage": "12",
       "weight": ".1",
@@ -29,7 +29,7 @@
    {
       "name": "Double Woven Linen",
       "rarity": "P",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": ".1",
@@ -38,7 +38,7 @@
    {
       "name": "Glass",
       "rarity": "P",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": ".5",
@@ -47,7 +47,7 @@
    {
       "name": "Hardened Timber",
       "rarity": "P",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": ".1",
@@ -56,7 +56,7 @@
    {
       "name": "Linen",
       "rarity": "C",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": ".1",
@@ -65,7 +65,7 @@
    {
       "name": "Oil",
       "rarity": "C",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": ".1",
@@ -92,7 +92,7 @@
    {
       "name": "Thread",
       "rarity": "C",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": ".1",
@@ -110,7 +110,7 @@
    {
       "name": "Wax",
       "rarity": "C",
-      "location" : [ "Forests" , "fields" ],
+      "location" : [ "Forests" , "Fields" ],
       "quantity": "1d6 Units",
       "forage": "12",
       "weight": ".1",
@@ -119,7 +119,7 @@
    {
       "name": "Beast Bones",
       "rarity": "C",
-      "location" : [ "Found on monsters" , "beasts" ],
+      "location" : [ "Found on monsters & beasts" ],
       "quantity": "Variable",
       "forage": "N/A",
       "weight": "4",
@@ -137,7 +137,7 @@
    {
       "name": "Draconid Leather",
       "rarity": "R",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": "5",
@@ -164,7 +164,7 @@
    {
       "name": "Hardened Leather",
       "rarity": "P",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": "3",
@@ -173,7 +173,7 @@
    {
       "name": "Leather",
       "rarity": "C",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": "2",
@@ -182,7 +182,7 @@
    {
       "name": "Lyrian Leather",
       "rarity": "P",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": "2",
@@ -209,7 +209,7 @@
    {
       "name": "Drake Oil",
       "rarity": "P",
-      "location" : [ "Rivers" , "coasts" ],
+      "location" : [ "Rivers" , "Coasts" ],
       "quantity": "1d6 Units",
       "forage": "16",
       "weight": ".1",
@@ -218,7 +218,7 @@
    {
       "name": "Ester Grease",
       "rarity": "C",
-      "location" : [ "Forests" , "fields" ],
+      "location" : [ "Forests" , "Fields" ],
       "quantity": "1d10 Units",
       "forage": "14",
       "weight": ".1",
@@ -227,7 +227,7 @@
    {
       "name": "Etching Acid",
       "rarity": "C",
-      "location" : [ "Caves" , "mountains" ],
+      "location" : [ "Caves" , "Mountains" ],
       "quantity": "1d10 Units",
       "forage": "14",
       "weight": ".1",
@@ -236,7 +236,7 @@
    {
       "name": "Fifth Essence",
       "rarity": "R",
-      "location" : [ "Places of Power" , "mages" , "fiends" ],
+      "location" : [ "Places of Power" , "Mages" , "Fiends" ],
       "quantity": "Variable",
       "forage": "N/A",
       "weight": ".1",
@@ -254,7 +254,7 @@
    {
       "name": "Sharpening Grit",
       "rarity": "P",
-      "location" : [ "Mountains" , "caves" ],
+      "location" : [ "Mountains" , "Caves" ],
       "quantity": "1d6 Units",
       "forage": "16",
       "weight": ".1",
@@ -263,7 +263,7 @@
    {
       "name": "Tanning Herbs",
       "rarity": "C",
-      "location" : [ "Fields" , "forests" ],
+      "location" : [ "Fields" , "Forests" ],
       "quantity": "1d10 Units",
       "forage": "14",
       "weight": ".1",
@@ -272,7 +272,7 @@
    {
       "name": "Dark Iron",
       "rarity": "R",
-      "location" : [ "Mountains" , "underground" ],
+      "location" : [ "Mountains" , "Underground" ],
       "quantity": "1d6 Units",
       "forage": "18",
       "weight": "1.5",
@@ -281,7 +281,7 @@
    {
       "name": "Dark Steel",
       "rarity": "R",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": "1",
@@ -290,7 +290,7 @@
    {
       "name": "Dimeritium",
       "rarity": "R",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": "1",
@@ -299,7 +299,7 @@
    {
       "name": "Gemstone",
       "rarity": "R",
-      "location" : [ "Mountains" , "underground" ],
+      "location" : [ "Mountains" , "Underground" ],
       "quantity": "1d6/2 Units",
       "forage": "24",
       "weight": ".1",
@@ -308,7 +308,7 @@
    {
       "name": "Glowing Ore",
       "rarity": "R",
-      "location" : [ "Mountains" , "underground" ],
+      "location" : [ "Mountains" , "Underground" ],
       "quantity": "1d6/2 Units",
       "forage": "20",
       "weight": "1",
@@ -317,7 +317,7 @@
    {
       "name": "Gold",
       "rarity": "R",
-      "location" : [ "Mountains" , "underground" ],
+      "location" : [ "Mountains" , "Underground" ],
       "quantity": "1d6/2 Units",
       "forage": "18",
       "weight": "1",
@@ -326,7 +326,7 @@
    {
       "name": "Iron",
       "rarity": "P",
-      "location" : [ "Mountains" , "underground" ],
+      "location" : [ "Mountains" , "Underground" ],
       "quantity": "1d6 Units",
       "forage": "16",
       "weight": "1.5",
@@ -335,7 +335,7 @@
    {
       "name": "Mahakaman Dimeritium",
       "rarity": "R",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": "1",
@@ -344,7 +344,7 @@
    {
       "name": "Mahakaman Steel",
       "rarity": "P",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": "1",
@@ -362,7 +362,7 @@
    {
       "name": "River Clay",
       "rarity": "P",
-      "location" : [ "Rivers" , "shores" ],
+      "location" : [ "Rivers" , "Shore" ],
       "quantity": "1d6 Units",
       "forage": "14",
       "weight": "1.5",
@@ -371,7 +371,7 @@
    {
       "name": "Silver",
       "rarity": "R",
-      "location" : [ "Mountains" , "underground" ],
+      "location" : [ "Mountains" , "Underground" ],
       "quantity": "1d6/2 Units",
       "forage": "16",
       "weight": "1",
@@ -380,7 +380,7 @@
    {
       "name": "Steel",
       "rarity": "P",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": "1",
@@ -398,7 +398,7 @@
    {
       "name": "Tretogor Steel",
       "rarity": "P",
-      "location" : [ "Bought" , "crafted" ],
+      "location" : [ "Bought" , "Crafted" ],
       "quantity": "N/A",
       "forage": "N/A",
       "weight": "1",
@@ -407,7 +407,7 @@
    {
       "name": "Zerrikanian Powder",
       "rarity": "P",
-      "location" : [ "Mountains" , "underground" ],
+      "location" : [ "Mountains" , "Underground" ],
       "quantity": "1d6/2 Units",
       "forage": "18",
       "weight": ".1",
