@@ -1,50 +1,7 @@
 <script>
   export let substance;
   import Component from './Component.svelte';
-
- // FIXME: make the colors more readable
-let black = "black";
-let blue = "blue";
-let brown = "brown";
-let green = "green";
-let grey = "grey";
-let red = "red";
-let yellow = "yellow";
-
-let styles = {
-  "Fields":green,
-  "Forests":green,
-  "Mountains":grey,
-  "Cities":grey,
-  "Underground":black,
-  "Caves":black,
-  "Swamps":brown,
-  "Ghouls":red,
-  "Nekkers":red,
-  "Rock Trolls":red,
-  "Wraiths":red,
-  "Drowners":red,
-  "Grave Hags":red,
-  "Sirens":red,
-  "Noon Wraiths":red,
-  "Griffins":red,
-  "Griffin Nests":red,
-  "Golems":red,
-  "Werewolves":red,
-  "Arachasae":red,
-  "Endrega":red,
-  "Endrega Nests":red,
-  "Fiends":red,
-  "Fiend Territory":red,
-  "Katakans":red,
-  "Wyverns":red,
-  "Dogs":red,
-  "Wolves":red,
-  "Ocean floor":blue,
-  "Shore":blue,
-  "The Blue Mountains":blue,
-  "Breweries":yellow
-}
+  import { styles } from './Locations.svelte';
 
 </script>
 <style>
