@@ -1,9 +1,11 @@
 <script>
   import Card from './Card.svelte';
   import Substance from './Substance.svelte';
+  import Ingredient from './Ingredient.svelte';
 
   import alchemicalItems from './AlchemicalItems.json';
   import alchemicalSubstances from './AlchemicalSubstances.json';
+  import craftingIngredients from './CraftingIngredients.json';
 
   let search="";
 
@@ -27,6 +29,7 @@
 let pages = [
   ["alchemicalItems","Alchemical Items"],
   ["alchemicalSubstances","Alchemical Substances"],
+  ["craftingIngredients","Crafting Ingredients"],
 ];
 let activePage = "alchemicalItems";
 </script>
@@ -101,6 +104,25 @@ let activePage = "alchemicalItems";
           </tr>
         {#each filterItems( search, alchemicalSubstances ) as substance}
           <Substance substance={substance}/>
+        {/each}
+        </table>
+      </div>
+    </div>
+  {:else if activePage == "craftingIngredients"}
+    <div class="row">
+      <div class="col">
+        <table class="table table-sm">
+          <tr>
+            <th>Name</th>
+            <th>Rarity</th>
+            <th>Location</th>
+            <th>Quantity</th>
+            <th>Forage DC</th>
+            <th>Weight</th>
+            <th>Cost</th>
+          </tr>
+        {#each filterItems( search, craftingIngredients ) as ingredient}
+          <Ingredient ingredient={ingredient}/>
         {/each}
         </table>
       </div>

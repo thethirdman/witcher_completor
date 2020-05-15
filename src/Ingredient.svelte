@@ -1,6 +1,5 @@
 <script>
-  export let substance;
-  import Component from './Component.svelte';
+  export let ingredient;
   import { styles } from './Locations.svelte';
 
 </script>
@@ -14,10 +13,9 @@
 </style>
 
 <tr>
-  <td>{substance.name}</td>
-  <td><Component name="{substance.substance}"/></td>
+  <td>{ingredient.name}</td>
     <td>
-      {#each substance.location as l}
+      {#each ingredient.location as l}
         {#if styles[l] != undefined }
           <span class="badge room-right" style="background-color: {styles[l]}; color: #fff;"> {l}</span>
         {:else}
@@ -25,9 +23,9 @@
         {/if}
       {/each}
     </td>
-  <td>{substance.rarity}</td>
-  <td>{substance.quantity}</td>
-  <td>{substance.forage}</td>
-  <td>{substance.weight}</td>
-  <td>{substance.cost}</td>
+  <td>{ingredient.rarity}</td>
+  <td>{ingredient.quantity}</td>
+  <td>{ingredient.forage}</td>
+  <td>{ingredient.weight}</td>
+  <td>{ingredient.cost}</td>
 </tr>
