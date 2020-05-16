@@ -1,14 +1,6 @@
 <script>
   export let craftingRecipe;
 </script>
-<style>
-  .purple-bg {
-    background-color: purple;
-  }
-  .room-right {
-    margin-right: 8px;
-  }
-</style>
 
 <tr>
   <td>{craftingRecipe.name}</td>
