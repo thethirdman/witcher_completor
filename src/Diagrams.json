@@ -1,0 +1,1002 @@
+[
+   {
+      "name": "Double Woven Linen",
+      "dc": " 14",
+      "time": " 1/2 Hour",
+      "components": " Linen (x1), Thread (x2)",
+      "investment": " 15",
+      "cost": " 30"
+   },
+   {
+      "name": "Hardened Leather",
+      "dc": " 14",
+      "time": " 1/2 Hour",
+      "components": " Leather (x1), Wax (x2)",
+      "investment": " 32",
+      "cost": " 64"
+   },
+   {
+      "name": "Hardened Timber",
+      "dc": " 12",
+      "time": " 1/2 Hour",
+      "components": " Timber (x1), Resin (x4)",
+      "investment": " 11",
+      "cost": " 21"
+   },
+   {
+      "name": "Leather",
+      "dc": " 12",
+      "time": " 1 Hour",
+      "components": " Cow Hide (x1), Tanning Herb (x3)",
+      "investment": " 19",
+      "cost": " 38"
+   },
+   {
+      "name": "Linen",
+      "dc": " 10",
+      "time": " 15 Minutes",
+      "components": " Thread (x2)",
+      "investment": " 6",
+      "cost": " 12"
+   },
+   {
+      "name": "Thread",
+      "dc": " 10",
+      "time": " 15 Minutes",
+      "components": " Cotton (x2)",
+      "investment": " 2",
+      "cost": " 4"
+   },
+   {
+      "name": "Dark Steel",
+      "dc": " 17",
+      "time": " 1 Hour",
+      "components": " Dark Iron (x1), Coal (x3)",
+      "investment": " 55",
+      "cost": " 110"
+   },
+   {
+      "name": "Lyrian Leather",
+      "dc": " 17",
+      "time": " 1 Hour",
+      "components": " Leather (x1), Ogre Wax (x1), Coal (x2)",
+      "investment": " 40",
+      "cost": " 80"
+   },
+   {
+      "name": "Steel",
+      "dc": " 15",
+      "time": " 1 Hour",
+      "components": " Iron (x1), Coal (x5)",
+      "investment": " 35",
+      "cost": " 70"
+   },
+   {
+      "name": "Tretogor Steel",
+      "dc": " 16",
+      "time": " 1 Hour",
+      "components": " Iron (x1), Coal (x5), Feathers (x2)",
+      "investment": " 43",
+      "cost": " 86"
+   },
+   {
+      "name": "Dimeritium",
+      "dc": " 20",
+      "time": " 1 Hour",
+      "components": " Glowing Ore (x2)",
+      "investment": " 160",
+      "cost": " 320"
+   },
+   {
+      "name": "Draconid Leather",
+      "dc": " 18",
+      "time": " 1 Hour",
+      "components": " Draconid Scales (x1), Tanning Herb (x3)",
+      "investment": " 39",
+      "cost": " 78"
+   },
+   {
+      "name": "Mahakaman Dimeritium",
+      "dc": " 24",
+      "time": " 1 Hour",
+      "components": " Glowing Ore (x2), River Clay (x3), Ashes (x2), Beast Bones (x3)",
+      "investment": " 201",
+      "cost": " 402"
+   },
+   {
+      "name": "Mahkaman Steel",
+      "dc": " 22",
+      "time": " 1 Hour",
+      "components": " Iron (x1), Coal (x5), Ashes (x2), River Clay (x3), Beast Bones (x3)",
+      "investment": " 76",
+      "cost": " 152"
+   },
+   {
+      "name": "Ammunition, Blunt (x5)",
+      "dc": " 12",
+      "time": " 1 Hour",
+      "components": " Timber (x1), Iron (x1), Feathers (x1)",
+      "investment": " 37",
+      "cost": " 74"
+   },
+   {
+      "name": "Ammunition, Standard (x30)",
+      "dc": " 10",
+      "time": " 2 Hour",
+      "components": " Timber (x1), Iron (x1), Feathers (x1)",
+      "investment": " 37",
+      "cost": " 14"
+   },
+   {
+      "name": "Arming Sword",
+      "dc": " 13",
+      "time": " 7 Hours",
+      "components": " Timber (x2), Thread (x1), Hard- ened Leather (x2), Steel (x2)",
+      "investment": " 201",
+      "cost": " 404"
+   },
+   {
+      "name": "Brass Knuckles",
+      "dc": " 10",
+      "time": " 2 Hours",
+      "components": " Steel (x1), Hardened Timber (x1), Resin (x3), Wax (x1)",
+      "investment": " 72",
+      "cost": " 125"
+   },
+   {
+      "name": "Dagger",
+      "dc": " 8",
+      "time": " 2 Hours",
+      "components": " Timber (x1), Iron (x1)",
+      "investment": " 33",
+      "cost": " 74"
+   },
+   {
+      "name": "Gleddyf",
+      "dc": " 14",
+      "time": " 7 Hours",
+      "components": " Timber (x1), Hardened Leather (x1), Leather (x1), Iron (x1), Steel (x2), Oil (x1), Resin (x1)",
+      "investment": " 210",
+      "cost": " 426"
+   },
+   {
+      "name": "Hand Axe",
+      "dc": " 10",
+      "time": " 3 Hours",
+      "components": " Hardened Timber (x1), Steel (x1), Hardened Leather (x1), Leather (x1), Resin (x4)",
+      "investment": " 148",
+      "cost": " 306"
+   },
+   {
+      "name": "Hunter’s Falchion",
+      "dc": " 14",
+      "time": " 7 Hours",
+      "components": " Hardened Timber (x1), Hardened Leather (x2), Steel (x2), Ester Grease (x4)",
+      "investment": " 240",
+      "cost": " 486"
+   },
+   {
+      "name": "Iron Long Sword",
+      "dc": " 10",
+      "time": " 5 Hours",
+      "components": " Timber (x1), Iron (x2), Leather (x2)",
+      "investment": " 119",
+      "cost": " 240"
+   },
+   {
+      "name": "Orions (x3)",
+      "dc": " 12",
+      "time": " 1 Hour",
+      "components": " Steel (x1), Oil (x2), River Clay (x1), Ashes (x3)",
+      "investment": " 62",
+      "cost": " 125"
+   },
+   {
+      "name": "Short Bow",
+      "dc": " 15",
+      "time": " 8 Hours",
+      "components": " Hardened Timber (x5), Thread (x4), Wax (x2), Resin (x2), Ester Grease (x3), Iron (x1), Leather (x2)",
+      "investment": " 210",
+      "cost": " 434"
+   },
+   {
+      "name": "Spear",
+      "dc": " 12",
+      "time": " 6 Hours",
+      "components": " Hardened Timber (x5), Steel (x2), Resin (x2), Leather (x3), Thread (x4)",
+      "investment": " 276",
+      "cost": " 562"
+   },
+   {
+      "name": "Throwing Axes (x3)",
+      "dc": " 10",
+      "time": " 1 Hour",
+      "components": " Timber (x1), Steel (x1)",
+      "investment": " 51",
+      "cost": " 116"
+   },
+   {
+      "name": "Throwing Knives (x3)",
+      "dc": " 8",
+      "time": " 1 Hour",
+      "components": " Steel (x1)",
+      "investment": " 48",
+      "cost": " 74"
+   },
+   {
+      "name": "Ammunition, Bodkin (x10)",
+      "dc": " 16",
+      "time": " 1 Hour",
+      "components": " Hardened Timber (x1), Steel (x1), Feathers (x1), Sharpening Grit (x1), Ogre Wax (x1)",
+      "investment": " 110",
+      "cost": " 224"
+   },
+   {
+      "name": "Ammunition, Broadhead (x10)",
+      "dc": " 15",
+      "time": " 1 Hour",
+      "components": " Timber (x1), Iron (x1), Feathers (x1), Sharpening Grit (x1)",
+      "investment": " 69",
+      "cost": " 125"
+   },
+   {
+      "name": "Battle Axe",
+      "dc": " 17",
+      "time": " 9 Hours",
+      "components": " Hardened Timber (x4), Steel (x3), Leather (x3), Ester Grease (x4), Ogre Wax (x4), River Clay (x5)",
+      "investment": " 389",
+      "cost": " 786"
+   },
+   {
+      "name": "Crossbow",
+      "dc": " 17",
+      "time": " 9 Hours",
+      "components": " Hardened Timber (x4), Thread (x5), Wax (x1), Resin (x2), Steel (x3), Hardened Leather (x1), Ester Grease (x2), Ogre Wax (x2), Iron (x1)",
+      "investment": " 343",
+      "cost": " 682"
+   },
+   {
+      "name": "Esboda",
+      "dc": " 17",
+      "time": " 9 Hours",
+      "components": " Hardened Timber (x2), Steel (x3), Dark Steel (x2), Hardened Leather (x2), Drake Oil (x1)",
+      "investment": " 481",
+      "cost": " 974"
+   },
+   {
+      "name": "Hand Crossbow",
+      "dc": " 15",
+      "time": " 8 Hours",
+      "components": " Hardened Timber (x2), Thread (x4), Wax (x2), Resin (x2), Steel (x1), Hardened Leather (x1), Ester Grease (x2), Ogre Wax (x2), Iron (x1)",
+      "investment": " 214",
+      "cost": " 426"
+   },
+   {
+      "name": "Hooked Staff",
+      "dc": " 18",
+      "time": " 9 Hours",
+      "components": " Timber (x6), Steel (x1), Fifth Es- sence (x2), Ester Grease (x2), Wax (x3), Steel (x2), Etching Acid (x2), Hardened Leather (x1), Thread (x4)",
+      "investment": " 412",
+      "cost": " 824"
+   },
+   {
+      "name": "Krigsverd",
+      "dc": " 16",
+      "time": " 8 Hours",
+      "components": " Hardened Timber (x2), Dark Steel (x3), Hardened Leather (x2), Resin (x4), Beast Bones (x7), Steel (x3), Ashes (x2)",
+      "investment": " 423",
+      "cost": " 854"
+   },
+   {
+      "name": "Long Bow",
+      "dc": " 16",
+      "time": " 8 Hours",
+      "components": " Hardened Timber (x6), Thread (x8), Wax (x4), Resin (x2), Ester Grease (x3), Steel (x1), Hardened Leather (x1)",
+      "investment": " 252",
+      "cost": " 712"
+   },
+   {
+      "name": "Mace",
+      "dc": " 16",
+      "time": " 8 Hours",
+      "components": " Hardened Timber (x2), Steel (x3), Iron (x2), Hardened Leather (x2), Ogre Wax (x5), Resin (x1)",
+      "investment": " 384",
+      "cost": " 786"
+   },
+   {
+      "name": "Pole Axe",
+      "dc": " 16",
+      "time": " 8 Hours",
+      "components": " Hardened Timber (x5), Dark Steel (x2), Leather (x2), Sharpening Grit (x1), Ester Grease (x1), Linen (x1)",
+      "investment": " 349",
+      "cost": " 690"
+   },
+   {
+      "name": "Poniard",
+      "dc": " 18",
+      "time": " 4 Hours",
+      "components": " Hardened Timber (x1), Dark Steel (x1), Hardened Leather (x1), Sharpening Grit (x2), Etching Acid (x4), Beast Bones (x4)",
+      "investment": " 250",
+      "cost": " 534"
+   },
+   {
+      "name": "Staff",
+      "dc": " 18",
+      "time": " 9 Hours",
+      "components": " Timber (x6), Steel (x1), Fifth Essence (x2), Ester Grease (x2), Wax (x2)",
+      "investment": " 250",
+      "cost": " 502"
+   },
+   {
+      "name": "Stiletto",
+      "dc": " 16",
+      "time": " 4 Hours",
+      "components": " Timber (x1), Resin (x1), Dark Steel (x1), Wax (x2), Darkening Oil (x1), Sharpening Grit (x2), Coal (x5)",
+      "investment": " 184",
+      "cost": " 412"
+   },
+   {
+      "name": "Berserker’s Axe",
+      "dc": " 25",
+      "time": " 13 Hours",
+      "components": " Mahakaman Steel (x4), Hardened Timber (x5), Hardened Leather (x1), Steel (x2), Resin (x1), Sharp- ening Grit (x1), Ester Grease (x1)",
+      "investment": " 722",
+      "cost": " 1440"
+   },
+   {
+      "name": "Crystal Staff",
+      "dc": " 25",
+      "time": " 13 Hours",
+      "components": " Timber (x6), Steel (x2), Fifth Es- sence (x4), Ester Grease (x3), Wax (x2), Gemstone (x1), Etching Acid (x4), Drake Oil (x1)",
+      "investment": " 623",
+      "cost": " 1296"
+   },
+   {
+      "name": "Highland Mauler",
+      "dc": " 25",
+      "time": " 13 Hours",
+      "components": " Dark Iron (x5), Dark Steel (x1), Hardened Timber (x10), Hardened Leather (x1), Etching Acid (x6), Beast Bones (x10), Ester Grease (x4), Meteorite (x1)",
+      "investment": " 720",
+      "cost": " 1440"
+   },
+   {
+      "name": "Iron Staff",
+      "dc": " 20",
+      "time": " 10 Hours",
+      "components": " Dark Iron (x4), Fifth Essence (x2), Dark Steel (x1), Leather (x1), Etch- ing Acid (x4), Hardened Timber (x1)",
+      "investment": " 506",
+      "cost": " 1012"
+   },
+   {
+      "name": "Jambiya",
+      "dc": " 20",
+      "time": " 5 Hours",
+      "components": " Hardened Timber (x1), Draconid Leather (x1), Dark Steel (x1), Steel (x2), Sharpening Grit (x2), Resin (x1), Darkening Oil (x1)",
+      "investment": " 342",
+      "cost": " 660"
+   },
+   {
+      "name": "Kord",
+      "dc": " 22",
+      "time": " 11 Hours",
+      "components": " Hardened Timber (x1), Dark Steel (x3), Dark Iron (x1), Hardened Leather (x2), Resin (x4), Beast Bones (x7), Silk (x1), Coal (x1)",
+      "investment": " 525",
+      "cost": " 1012"
+   },
+   {
+      "name": "Monster Hunter’s Crossbow",
+      "dc": " 24",
+      "time": " 12 Hours",
+      "components": " Hardened Timber (x6), Thread (x6), Wax (x3), Resin (x4), Dark Steel (x4), Hardened Leather (x3), Ester Grease (x2), Ogre Wax (x4), Dark Iron (x3), Beast Bones (x4)",
+      "investment": " 844",
+      "cost": " 1686"
+   },
+   {
+      "name": "Red Halberd",
+      "dc": " 22",
+      "time": " 11 Hours",
+      "components": " Hardened Timber (x6), Dark Steel (x3), Tretogor Steel (x2), Hardened Leather (x2), Sharpening Grit (x2), Ester Grease (x2)",
+      "investment": " 646",
+      "cost": " 1296"
+   },
+   {
+      "name": "Torrwr",
+      "dc": " 25",
+      "time": " 13 Hours",
+      "components": " Hardened Timber (x3), Dark Steel (x5), Steel (x2), Hardened Leather (x3), Resin (x5), Ashes (x4), Beast Bones (x2), Sharpening Grit (x1)",
+      "investment": " 760",
+      "cost": " 1462"
+   },
+   {
+      "name": "Vicovarian Blade",
+      "dc": " 24",
+      "time": " 12 Hours",
+      "components": " Hardened Timber (x3), Dark Steel (x4), Dark Iron (x2), Hardened Leather (x3), Resin (x4), Ashes (x4), Beast Bones (x3)",
+      "investment": " 660",
+      "cost": " 1282"
+   },
+   {
+      "name": "War Bow",
+      "dc": " 22",
+      "time": " 11 Hours",
+      "components": " Hardened Timber (x6), Thread (x8), Wax (x4), Resin (x4), Ester Grease (x3), Dark Steel (x4), Hard- ened Leather (x1), Drake Oil (x2)",
+      "investment": " 626",
+      "cost": " 1296"
+   },
+   {
+      "name": "Aedirnian Gambeson",
+      "dc": " 12",
+      "time": " 6 Hours",
+      "components": " Linen (x6), Thread (x6), Leather (x2), Oil (x1)",
+      "investment": " 131",
+      "cost": " 362"
+   },
+   {
+      "name": "Cavalry Trousers",
+      "dc": " 13",
+      "time": " 7 Hours",
+      "components": " Linen (x5), Thread (x4)",
+      "investment": " 57",
+      "cost": " 112"
+   },
+   {
+      "name": "Double Woven Gambeson",
+      "dc": " 15",
+      "time": " 8 Hours",
+      "components": " Double Woven Linen (x5), Thread (x6), Tanning Herbs (x4), Linen (x4), Cotton (x11)",
+      "investment": " 187",
+      "cost": " 374"
+   },
+   {
+      "name": "Double Woven Hood",
+      "dc": " 13",
+      "time": " 4 Hours",
+      "components": " Double Woven Linen (x2), Leather (x2), Thread (x7), Wax (x4)",
+      "investment": " 129",
+      "cost": " 262"
+   },
+   {
+      "name": "Double Woven Trousers",
+      "dc": " 15",
+      "time": " 8 Hours",
+      "components": " Double Woven Linen (x6), Thread (x6), Cotton (x6), Linen (x1)",
+      "investment": " 165",
+      "cost": " 336"
+   },
+   {
+      "name": "Gambeson",
+      "dc": " 10",
+      "time": " 5 Hours",
+      "components": " Linen (x6), Thread (x7)",
+      "investment": " 75",
+      "cost": " 150"
+   },
+   {
+      "name": "Leather Shield",
+      "dc": " 12",
+      "time": " 3 Hours",
+      "components": " Leather (x1), Timber (x2), Tanning Herbs (x1)",
+      "investment": " 37",
+      "cost": " 74"
+   },
+   {
+      "name": "Padded Trousers",
+      "dc": " 14",
+      "time": " 7 Hours",
+      "components": " Linen (x5), Thread (x4), Cotton (x9), Leather (x1)",
+      "investment": " 94",
+      "cost": " 186"
+   },
+   {
+      "name": "Spectacle Helm",
+      "dc": " 15",
+      "time": " 4 Hours",
+      "components": " Steel (x3), Beast Bones (x1)",
+      "investment": " 152",
+      "cost": " 300"
+   },
+   {
+      "name": "Steel Buckler",
+      "dc": " 15",
+      "time": " 4 Hours",
+      "components": " Steel (x1), Hardened Timber (x1), Hardened Leather (x1)",
+      "investment": " 112",
+      "cost": " 224"
+   },
+   {
+      "name": "Temerian Shield",
+      "dc": " 16",
+      "time": " 4 Hours",
+      "components": " Hardened Timber (x4), Iron (x1), Hardened Leather (x1), Ogre Wax (x3)",
+      "investment": " 172",
+      "cost": " 342"
+   },
+   {
+      "name": "Verden Archer’s Hood",
+      "dc": " 10",
+      "time": " 3 Hours",
+      "components": " Linen (x2), Leather (x1), Thread (x6), Wax (x3)",
+      "investment": " 70",
+      "cost": " 150"
+   },
+   {
+      "name": "Armored Hood",
+      "dc": " 17",
+      "time": " 5 Hours",
+      "components": " Leather (x1), Hardened Leather (x3), Double Woven Linen (x3), Thread (x4), Ogre Wax (x1)",
+      "investment": " 260",
+      "cost": " 524"
+   },
+   {
+      "name": "Armored Trousers",
+      "dc": " 16",
+      "time": " 8 Hours",
+      "components": " Hardened Leather (x2), Steel (x1), Leather (x1), Thread (x5)",
+      "investment": " 187",
+      "cost": " 374"
+   },
+   {
+      "name": "Brigandine",
+      "dc": " 16",
+      "time": " 8 Hours",
+      "components": " Leather (x3), Hardened Leather (x3)",
+      "investment": " 228",
+      "cost": " 450"
+   },
+   {
+      "name": "Chain Coif",
+      "dc": " 16",
+      "time": " 4 Hours",
+      "components": " Steel (x4)",
+      "investment": " 192",
+      "cost": " 374"
+   },
+   {
+      "name": "Kaedweni Shield",
+      "dc": " 19",
+      "time": " 5 Hours",
+      "components": " Hardened Timber (x5), Dark Steel (x1), Beast Bones (x7), Leather (x1), Ogre Wax (x5), Wax (x2)",
+      "investment": " 300",
+      "cost": " 600"
+   },
+   {
+      "name": "Lyrian Leather Jacket",
+      "dc": " 18",
+      "time": " 9 Hours",
+      "components": " Lyrian Leather (x4), Thread (x4), Leather (x2), Linen (x4), Steel (x1)",
+      "investment": " 392",
+      "cost": " 786"
+   },
+   {
+      "name": "Lyrian Leather Trousers",
+      "dc": " 18",
+      "time": " 9 Hours",
+      "components": " Lyrian Leather (x4), Thread (x4), Leather (x2), Linen (x4), Steel (x1)",
+      "investment": " 392",
+      "cost": " 786"
+   },
+   {
+      "name": "Redanian Greaves",
+      "dc": " 17",
+      "time": " 9 Hours",
+      "components": " Hardened Leather (x1), Leather",
+      "investment": " (x1), Tretogor Steel (x3), Thread (x5), Tanning Herbs (x3), Cotton (x3)",
+      "cost": " 295"
+   },
+   {
+      "name": "Redanian Halberdier’s Armor",
+      "dc": " 17",
+      "time": " 9 Hours",
+      "components": " Hardened Leather (x1), Leather (x1), Tretogor Steel (x5), Thread (x3), Tanning Herbs (x4), Etching Acid (x2)",
+      "investment": " 299",
+      "cost": " 600"
+   },
+   {
+      "name": "Skellige Raider Shield",
+      "dc": " 18",
+      "time": " 5 Hours",
+      "components": " Hardened Timber (x5), Dark Steel (x1), Beast Bones (x5), Leather (x1), Ogre Wax (x1)",
+      "investment": " 240",
+      "cost": " 486"
+   },
+   {
+      "name": "Steel Kite Shield",
+      "dc": " 17",
+      "time": " 5 Hours",
+      "components": " Steel (x4), Dark Steel (x1), Leather (x1)",
+      "investment": " 302",
+      "cost": " 600"
+   },
+   {
+      "name": "Temerian Armet",
+      "dc": " 18",
+      "time": " 5 Hours",
+      "components": " Steel (x4), Leather (x2), Hardened Leather (x2), Ester Grease (x1)",
+      "investment": " 352",
+      "cost": " 712"
+   },
+   {
+      "name": "Great Helm",
+      "dc": " 19",
+      "time": " 5 Hours",
+      "components": " Steel (x5), Hardened Leather (x3), Thread (x6), Ogre Wax (x2), Linen (x1)",
+      "investment": " 431",
+      "cost": " 862"
+   },
+   {
+      "name": "Hindarsfjall Heavy Armor",
+      "dc": " 22",
+      "time": " 11 Hours",
+      "components": " Dark Steel (x4), Hardened Leather (x1), Beast Bones (x4), Thread (x5), Drake Oil (x1), Ashes (x1)",
+      "investment": " 565",
+      "cost": " 1124"
+   },
+   {
+      "name": "Hindarsfjall Heavy Chausses",
+      "dc": " 22",
+      "time": " 11 Hours",
+      "components": " Dark Steel (x4), Hardened Leather (x1), Beast Bones (x4), Thread (x5), Drake Oil (x1), Ashes (x1)",
+      "investment": " 565",
+      "cost": " 1124"
+   },
+   {
+      "name": "Nilfgaardian Greaves",
+      "dc": " 24",
+      "time": " 12 Hours",
+      "components": " Dark Steel (x5), Hardened Leather (x1), Leather (x1), Darkening Oil (x1), Drake Oil (x2), Linen (x1), Ashes (x10), Oil (x4)",
+      "investment": " 631",
+      "cost": " 1274"
+   },
+   {
+      "name": "Nilfgaardian Helm",
+      "dc": " 24",
+      "time": " 6 Hours",
+      "components": " Dark Steel (x5), Hardened Leather (x1), Darkening Oil (x1), Drake Oil (x1), Ashes (x10) Oil (x5)",
+      "investment": " 600",
+      "cost": " 1200"
+   },
+   {
+      "name": "Nilfgaardian Pavise",
+      "dc": " 22",
+      "time": " 6 Hours",
+      "components": " Hardened Timber (x10), Hard- ened Leather (x3), Ogre Wax (x1), Dark Steel (x1), Ester Grease (x2), Darkening Oil (x1), Ashes (x10), Etching Acid (x2)",
+      "investment": " 450",
+      "cost": " 900"
+   },
+   {
+      "name": "Nilfgaardian Plate Armor",
+      "dc": " 24",
+      "time": " 12 Hours",
+      "components": " Dark Steel (x5), Hardened Leather (x1), Leather (x1), Darkening Oil (x1), Drake Oil (x2), Linen (x3), Ashes (x10)",
+      "investment": " 637",
+      "cost": " 1274"
+   },
+   {
+      "name": "Pavise",
+      "dc": " 19",
+      "time": " 5 Hours",
+      "components": " Hardened Timber (x10), Hardened Leather (x3), Ogre Wax (x1), Steel (x1), Ester Grease (x2)",
+      "investment": " 378",
+      "cost": " 750"
+   },
+   {
+      "name": "Plate Greaves",
+      "dc": " 19",
+      "time": " 10 Hours",
+      "components": " Steel (x5), Hardened Leather (x3), Thread (x7), Etching Acid (x4), Drake Oil (x1), Ogre Wax (x1)",
+      "investment": " 468",
+      "cost": " 798"
+   },
+   {
+      "name": "Plate Armor",
+      "dc": " 19",
+      "time": " 10 Hours",
+      "components": " Steel (x5), Hardened Leather (x3), Thread (x7), Etching Acid (x4), Drake Oil (x1), Ogre Wax (x1)",
+      "investment": " 468",
+      "cost": " 937"
+   },
+   {
+      "name": "Skellige Helm",
+      "dc": " 22",
+      "time": " 6 Hours",
+      "components": " Dark Steel (x4), Hardened Leather (x2), Beast Bones (x5), Thread (x6), Drake Oil (x1)",
+      "investment": " 527",
+      "cost": " 1050"
+   },
+   {
+      "name": "Dwarven Axe",
+      "dc": " 24",
+      "time": " 12 Hours",
+      "components": " Mahakaman Steel (x3), Hardened Timber (x4), Hardened Leather (x2) Etching Acid (x4), Sharpening Grit (x1), River Clay (x2), Coal (x3)",
+      "investment": " 555",
+      "cost": " 1110"
+   },
+   {
+      "name": "Dwarven Cleaver",
+      "dc": " 19",
+      "time": " 10 Hours",
+      "components": " Mahakaman Steel (x2), Hardened Timber (x1), Leather (x1), Sharp- ening Grit (x1), Drake Oil (x1), River Clay (x5)",
+      "investment": " 374",
+      "cost": " 750"
+   },
+   {
+      "name": "Dwarven Heavy Crossbow",
+      "dc": " 24",
+      "time": " 12 Hours",
+      "components": " Hardened Timber (x5), Ma- hakaman Steel (x3), Hardened Leather (x2), Thread (x4), Ogre Wax (x5), Dark Iron (x1)",
+      "investment": " 632",
+      "cost": " 1274"
+   },
+   {
+      "name": "Elven Glaive",
+      "dc": " 19",
+      "time": " 10 Hours",
+      "components": " Hardened Timber (x6), Dark Steel (x4), Steel (x1), Leather (x4), Feathers (x3), Sharpening Grit (x2), Ester Grease (x4)",
+      "investment": " 692",
+      "cost": " 1386"
+   },
+   {
+      "name": "Elven Messer",
+      "dc": " 19",
+      "time": " 10 Hours",
+      "components": " Hardened Timber (x2), Leather (x3), Dark Steel (x3), Silk (x1), Sharpening Grit (x1), Etching Acid (x1)",
+      "investment": " 446",
+      "cost": " 892"
+   },
+   {
+      "name": "Elven Travel Bow",
+      "dc": " 22",
+      "time": " 11 Hours",
+      "components": " Hardened Timber (x4), Thread (x4), Wax (x4), Fifth Essence (x1), Leather (x1), Feathers (x3), Beast Bones (x2), Dark Steel (x2), Ester Grease (x5), Etching Acid (x3)",
+      "investment": " 432",
+      "cost": " 862"
+   },
+   {
+      "name": "Gnomish Staff",
+      "dc": " 22",
+      "time": " 11 Hours",
+      "components": " Hardened Timber (x6), Fifth Essence (x5), Darkening Oil (x3), Dark Steel (x1), Double Woven Linen (x1)",
+      "investment": " 682",
+      "cost": " 1364"
+   },
+   {
+      "name": "Halfling Rondel",
+      "dc": " 19",
+      "time": " 10 Hours",
+      "components": " Dark Steel (x2), Hardened Timber (x1), Hardened Leather (x1), Sharpening Grit (x3), Darkening Oil (x1), Ester Grease (x2)",
+      "investment": " 364",
+      "cost": " 726"
+   },
+   {
+      "name": "Mahakaman Martell",
+      "dc": " 22",
+      "time": " 11 Hours",
+      "components": " Mahakaman Steel (x3), Hardened Timber (x3), Hardened Leather (x2), Wolf Hide (x1), Sharpening Grit (x1), Ester Grease (x3), Drake Oil (x2), River Clay (x4), Linen (x1)",
+      "investment": " 675",
+      "cost": " 1350"
+   },
+   {
+      "name": "Meteorite Sword",
+      "dc": " 20",
+      "time": " 10 Hours",
+      "components": " Hardened Timber (x2), Leather (x2), Meteorite (x5), Sharpening Grit (x1), Etching Acid (x4), Ester Grease (x4)",
+      "investment": " 650",
+      "cost": " 1312"
+   },
+   {
+      "name": "Vrihedd Cavalry Sword",
+      "dc": " 24",
+      "time": " 12 Hours",
+      "components": " Hardened Timber (x2), Silk (x1), Dark Steel (x4), Sharpening Grit (x3), Ester Grease (x4), River Clay (x4)",
+      "investment": " 558",
+      "cost": " 1117"
+   },
+   {
+      "name": "Dwarven Pole Hammer",
+      "dc": " 25",
+      "time": " 13 Hours",
+      "components": " Hardened Timber (x6), Ma- hakaman Steel (x3), Hardened Leather (x3), Sharpening Grit (x1), Ogre Wax (x1)",
+      "investment": " 624",
+      "cost": " 1248"
+   },
+   {
+      "name": "Elven Walking Staff",
+      "dc": " 25",
+      "time": " 13 Hours",
+      "components": " Hardened Timber (x6), Gold (x1), Ester Grease (x6), Wolf Hide (x2), Dark Steel (x1), Silk (x1), Fifth Essence (x3), Gemstone (x1)",
+      "investment": " 735",
+      "cost": " 1470"
+   },
+   {
+      "name": "Elven Zefhar",
+      "dc": " 25",
+      "time": " 13 Hours",
+      "components": " Hardened Timber (x8), Thread (x8), Ogre Wax (x8), Fifth Essence (x2), Leather (x2), Feathers (x4), Beast Bones (x4), Dark Steel (x3), Ester Grease (x9), Etching Acid (x6)",
+      "investment": " 830",
+      "cost": " 1660"
+   },
+   {
+      "name": "Gnomish Black Axe",
+      "dc": " 25",
+      "time": " 13 Hours",
+      "components": " Hardened Timber (x4), Hardened Leather (x2), Dimeritium (x1), Dark Steel (x3), Sharpening Grit (x1), Ogre Wax (x1)",
+      "investment": " 688",
+      "cost": " 1376"
+   },
+   {
+      "name": "Gnomish Gwyhyr",
+      "dc": " 25",
+      "time": " 13 Hours",
+      "components": " Hardened Timber (x2), Hardened Leather (x1), Dimeritium (x2), Dark Steel (x1), Sharpening Grit (x6), Ester Grease (x4), Darkening Oil (x1), Etching Acid (x2)",
+      "investment": " 814",
+      "cost": " 1628"
+   },
+   {
+      "name": "Gnomish Hand Crossbow",
+      "dc": " 25",
+      "time": " 13 Hours",
+      "components": " Hardened Timber (x2), Thread (x4), Wax (x2), Resin (x2), Dark Steel (x2), Darkening Oil (x2), Drake Oil (x1), Ester Grease (x1)",
+      "investment": " 317",
+      "cost": " 634"
+   },
+   {
+      "name": "Meteorite Chain Mace",
+      "dc": " 25",
+      "time": " 13 Hours",
+      "components": " Meteorite (x5), Hardened Timber (x1), Hardened Leather (x1), Ester Grease (x1), Dark Steel (x1), Sharp- ening Grit (x1)",
+      "investment": " 676",
+      "cost": " 1352"
+   },
+   {
+      "name": "Tir Tochair Blade",
+      "dc": " 26",
+      "time": " 13 Hours",
+      "components": " Hardened Timber (x2), Hardened Leather (x1), Mahakaman Dimerit- ium (x2), Dark Steel (x1), Sharp- ening Grit (x1), Ester Grease (x4), Draconid Leather (x1), Ashes (x4)",
+      "investment": " 888",
+      "cost": " 1776"
+   },
+   {
+      "name": "Dwarven Impact (x5)",
+      "dc": " 20",
+      "time": " 1/2 Hour",
+      "components": " Mahakaman Steel (x1), Hardened Timber (x1), Feathers (x1), Ogre Wax (x2), Iron (x1)",
+      "investment": " 184",
+      "cost": " 100"
+   },
+   {
+      "name": "Elven Burrower (x5)",
+      "dc": " 20",
+      "time": " 1/2 Hour",
+      "components": " Dark Steel (x1), Hardened Timber (x1), Feathers (x2), Sharpening Grit (x2), Ogre Wax (x1), Resin (x1), Thread (x1)",
+      "investment": " 185",
+      "cost": " 100"
+   },
+   {
+      "name": "Dwarven Cloak",
+      "dc": " 18",
+      "time": " 9 Hours",
+      "components": " Hardened Leather (x12), Resin (x10), Leather (x6), Thread (x10), Ogre Wax (x10), Drake Oil (x2), Ester Grease (x7), Cow Hide (x1)",
+      "investment": " 1050",
+      "cost": " 2100"
+   },
+   {
+      "name": "Elven Shield",
+      "dc": " 20",
+      "time": " 5 Hours",
+      "components": " Hardened Timber (x5), Hardened Leather (x5), Dark Steel (x2), Ester Grease (x2), Etching Oil (x4), Ogre Wax (x2)",
+      "investment": " 528",
+      "cost": " 1050"
+   },
+   {
+      "name": "Gnomish Buckler",
+      "dc": " 22",
+      "time": " 6 Hours",
+      "components": " Dark Steel (x3), Leather (x1), Ester Grease (x1), Etching Acid (x4), Drake Oil (x1)",
+      "investment": " 335",
+      "cost": " 674"
+   },
+   {
+      "name": "Halfling Protective Doublet",
+      "dc": " 18",
+      "time": " 9 Hours",
+      "components": " Silk (x4), Double Woven Linen (x2), Thread (x10), Cotton (x7)",
+      "investment": " 281",
+      "cost": " 562"
+   },
+   {
+      "name": "Scoia’tael Armor",
+      "dc": " 20",
+      "time": " 20 Hours",
+      "components": " Dark Steel (x12), Wolf Hide (x3), Ester Grease (x10), Etching Acid (x12), Ashes (x11), Double Woven Linen (x8), Darkening Oil (x4), Hardened Timber (x13), Drake Oil (x2), Thread (x9)",
+      "investment": " 1738",
+      "cost": " 3486"
+   },
+   {
+      "name": "Gnomish Chain",
+      "dc": " 24",
+      "time": " 24 Hours",
+      "components": " Dark Steel (x8), Leather (x2), Darkening Oil (x1)",
+      "investment": " 736",
+      "cost": " 1462"
+   },
+   {
+      "name": "Gnomish Dragoon Armor",
+      "dc": " 25",
+      "time": " 25 Hours",
+      "components": " Dark Steel (x12), Mahakaman Dimeritium (x2), Ester Grease (x10), Etching Acid (x14), Double Woven Linen (x5), Darkening Oil (x4), Drake Oil (x2), Meteorite (x1), Thread (x15)",
+      "investment": " 2131",
+      "cost": " 4274"
+   },
+   {
+      "name": "Mahakaman Pavise",
+      "dc": " 26",
+      "time": " 7 Hours",
+      "components": " Hardened Timber (x10), Hardened Leather (x5), Ogre Wax (x11), Ma- hakaman Steel (x2), Ester Grease (x2), Etching Acid (x3), Leather (x1)",
+      "investment": " 788",
+      "cost": " 1574"
+   },
+   {
+      "name": "Mahakaman Plate Armor",
+      "dc": " 28",
+      "time": " 28 Hours",
+      "components": " Mahakaman Steel (x12), Mahakaman Dimeritium (x2), Ester Grease (x8), Etching Acid (x12), Hardened Leather (x5), Darkening Oil (x2), Drake Oil (x1), Meteorite (x2), Ogre Wax (x3), Thread (x10)",
+      "investment": " 2645",
+      "cost": " 5286"
+   },
+   {
+      "name": "Fiber",
+      "dc": " 14",
+      "time": " 3 Hours",
+      "components": " Double Woven Linen (x1), Thread (x2)",
+      "investment": " 28",
+      "cost": " 60"
+   },
+   {
+      "name": "Studded Leather",
+      "dc": " 14",
+      "time": " 3 Hours",
+      "components": " Leather (x1), Iron (x1), Thread (x1)",
+      "investment": " 61",
+      "cost": " 120"
+   },
+   {
+      "name": "Chain Mail",
+      "dc": " 17",
+      "time": " 5 Hours",
+      "components": " Steel (x2)",
+      "investment": " 96",
+      "cost": " 187"
+   },
+   {
+      "name": "Hardened Leather",
+      "dc": " 16",
+      "time": " 4 Hours",
+      "components": " Hardened Leather (x1), Leather (x1), Thread (x5), Wax (x3)",
+      "investment": " 97",
+      "cost": " 195"
+   },
+   {
+      "name": "Steel",
+      "dc": " 18",
+      "time": " 5 Hours",
+      "components": " Steel (x2), Thread (x3), Etching Acid (x2)",
+      "investment": " 109",
+      "cost": " 217"
+   },
+   {
+      "name": "Elven",
+      "dc": " 24",
+      "time": " 6 Hours",
+      "components": " Dark Steel (x1), Hardened Leather (x1), Thread (x5), Feathers (x1)",
+      "investment": " 149",
+      "cost": " 300"
+   },
+   {
+      "name": "Dwarven",
+      "dc": " 24",
+      "time": " 6 Hours",
+      "components": " Mahakaman Steel (x1), Wolf Hide (x1), Thread (x5), Coal (x1)",
+      "investment": " 144",
+      "cost": " 292"
+   }
+]
