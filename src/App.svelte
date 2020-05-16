@@ -65,7 +65,7 @@ let activePage = "alchemicalItems";
       Search:
     </div>
     <div class="col">
-      <input bind:value={search} class="form-control"/>
+      <input bind:value={search} on:focus={() => search = ""} class="form-control"/>
     </div>
   </div>
   <div class="row top-room">
