@@ -1,0 +1,52 @@
+[
+	{
+		"name": "Vitriol + Rebis",
+		"effect": "+15 Health for 1 hour.",
+		"dc": "18"
+	},
+	{
+		"name": "Quebrith + Sol",
+		"effect": "Negates all pain for 1 hour lessening penalties from criticals and being near death by 4.",
+		"dc":"14"
+	},
+	{
+		"name": "Aether + Caelum",
+		"effect": "Negates dim light penalties for an hour but doubles bright light penalties",
+		"dc":"14"
+	},
+	{
+		"name": "Fulgur + Vermillion",
+		"effect": "+3 against Intimidation for 1 hour.",
+		"dc":"15"
+	},
+	{
+		"name": "Hydragenum + Rebis",
+		"effect": "+3 to Seduction for 1 hour",
+		"dc":"15"
+	},
+	{
+		"name": "Aether+ Vitriol",
+		"effect": "+3 to Awareness for 1 hour",
+		"dc":"15"
+	},
+	{
+		"name": "Vermillion + Quebrith",
+		"effect": "+15 Stamina for 1 hour",
+		"dc":"18"
+	},
+	{
+		"name": "Fulgur + Sol",
+		"effect": "Puts you into a death like coma for 1 hour",
+		"dc":"18"
+	},
+	{
+		"name": "Caelum + Hydragenum",
+		"effect": "Allows you to stay awake all night with no penalties",
+		"dc":"17"
+	},
+	{
+		"name": "Vermillion + Sol",
+		"effect": "+3 to Reflex for 10 rounds",
+		"dc":"15"
+	}
+]

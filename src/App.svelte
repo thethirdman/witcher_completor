@@ -7,6 +7,7 @@
   import alchemicalItems from './AlchemicalItems.json';
   import alchemicalSubstances from './AlchemicalSubstances.json';
   import craftingIngredients from './CraftingIngredients.json';
+  import herbalRemedies from './HerbalRemedies.json';
   import diagrams from './Diagrams.json';
 
   let search="";
@@ -33,6 +34,7 @@ let pages = [
   ["alchemicalSubstances","Alchemical Substances"],
   ["craftingIngredients","Crafting Ingredients"],
   ["craftingRecipes","Crafting Diagrams"],
+  ["herbalRemedies","Herbal Remedies"],
 ];
 let activePage = "alchemicalItems";
 </script>
@@ -54,6 +56,13 @@ let activePage = "alchemicalItems";
 </svelte:head>
 
 <style>
+  .top {
+    margin-top: 20px;
+  }
+  .content {
+    margin-top: 10px;
+  }
+j
   .top-room {
     padding-top:15px;
   }
@@ -148,5 +157,24 @@ let activePage = "alchemicalItems";
         </table>
       </div>
     </div>
+  {:else if activePage == "herbalRemedies"}
+		{#each filterItems( search, herbalRemedies) as herbalRemedy}
+			<div class="card top">
+				<div class="card-body">
+					<div class="row">
+						<div class="col-3">
+							<h5> {herbalRemedy.name} </h5>
+						</div>
+						<div class="col">
+							{herbalRemedy.effect}
+						</div>
+						<div class="col-1">
+							{herbalRemedy.dc}
+						</div>
+						<hr/>
+					</div>
+				</div>
+			</div>
+		{/each}
   {/if}
 </div>
