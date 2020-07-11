@@ -126,8 +126,8 @@ j
         <table class="table table-sm">
           <tr>
             <th>Name</th>
-            <th>Rarity</th>
             <th>Location</th>
+            <th>Rarity</th>
             <th>Quantity</th>
             <th>Forage DC</th>
             <th>Weight</th>
